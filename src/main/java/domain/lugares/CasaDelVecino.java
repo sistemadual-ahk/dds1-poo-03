@@ -1,4 +1,6 @@
-package domain;
+package domain.lugares;
+
+import domain.mascotas.Gato;
 
 public class CasaDelVecino extends Lugar {
     private int cantidadVisitas;

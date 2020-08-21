@@ -1,4 +1,6 @@
-package domain;
+package domain.lugares;
+
+import domain.mascotas.Gato;
 
 public class Habitacion extends Lugar {
     private int desorden;

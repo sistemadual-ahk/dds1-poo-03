@@ -1,5 +1,7 @@
 package domain;
 
+import domain.mascotas.Gato;
+
 public class Comida {
     private int nivelDeSaciedad;
 

@@ -1,4 +1,4 @@
-package domain;
+package domain.lugares;
 
 public class Punto {
     private int posicionX;

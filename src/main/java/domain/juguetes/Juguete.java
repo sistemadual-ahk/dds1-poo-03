@@ -1,4 +1,6 @@
-package domain;
+package domain.juguetes;
+
+import domain.mascotas.Gato;
 
 public class Juguete implements Jugable {
     private int nivelDeDiversion;

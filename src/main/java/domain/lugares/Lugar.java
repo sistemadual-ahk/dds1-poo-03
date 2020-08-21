@@ -1,4 +1,6 @@
-package domain;
+package domain.lugares;
+
+import domain.mascotas.Gato;
 
 public abstract class Lugar {
     private Punto punto;

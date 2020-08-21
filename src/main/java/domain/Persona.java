@@ -1,5 +1,8 @@
 package domain;
 
+import domain.juguetes.Jugable;
+import domain.mascotas.Gato;
+
 public class Persona implements Jugable {
     private String nombre;
 

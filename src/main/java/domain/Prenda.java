@@ -1,5 +1,7 @@
 package domain;
 
+import domain.mascotas.Gato;
+
 public class Prenda {
     private double nivelDeAbrigo;
 

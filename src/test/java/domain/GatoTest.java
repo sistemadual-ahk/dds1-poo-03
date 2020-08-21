@@ -1,5 +1,9 @@
 package domain;
 
+import domain.juguetes.Juguete;
+import domain.lugares.*;
+import domain.mascotas.Color;
+import domain.mascotas.Gato;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

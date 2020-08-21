@@ -1,4 +1,10 @@
-package domain;
+package domain.mascotas;
+
+import domain.Comida;
+import domain.Prenda;
+import domain.juguetes.Jugable;
+import domain.lugares.Lugar;
+import domain.lugares.Punto;
 
 public class Gato {
     private String nombre;

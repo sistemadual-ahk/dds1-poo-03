@@ -1,4 +1,4 @@
-package domain;
+package domain.mascotas;
 
 public enum Color {
     MARRON,
